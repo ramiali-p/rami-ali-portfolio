@@ -168,7 +168,7 @@ const projects: Project[] = [
     learnings:
       "Reinforced the value of clear design intent, and reminded me that even a small side project is worth doing properly.",
     liveUrl: "https://rami-ali-portfolio.vercel.app",
-    githubUrl: "https://github.com/PotatoMan3728/rami-ali-portfolio",
+    githubUrl: "https://github.com/ramiali-p/rami-ali-portfolio",
   },
   {
     number: "07",
@@ -191,7 +191,7 @@ const projects: Project[] = [
     learnings:
       "Enhanced my skills in frontend development and responsive design, while gaining experience in managing freelance projects from concept to completion.",
     liveUrl: "https://restaurant-site-renexis.vercel.app/",
-    githubUrl: "https://github.com/PotatoMan3728/restaurant-site-renexis"
+    githubUrl: "https://github.com/ramiali-p/restaurant-site-renexis"
   }
 ];
 
